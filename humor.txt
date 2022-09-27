@@ -1,0 +1,2 @@
+humor 1
+humor 2
